@@ -5,6 +5,7 @@ see: https://www.sparkfun.com/products/14045 for the Sensor breakout board
 and: https://www.microbit.co.uk/home for the micro:bit.
 
 **how to connect the breakout board to the micro:bit:**
+
 SCL --> pin19
 
 SDA --> pin20
